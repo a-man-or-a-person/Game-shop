@@ -1,0 +1,55 @@
+.big{
+    display: flex;
+   justify-content: space-between;
+    flex-wrap: wrap;
+    border: 2px solid rgb(218, 199, 97);
+    padding: 10px 10px 10px 10px;
+    
+}
+.ggbig{
+    border: 2px solid black;
+    height: 40%;
+    width: 40%;
+    
+    margin-top: 30px;
+    float: left;
+}
+.txt{
+    text-align: center;
+}
+
+
+.long{
+    border: 2px solid black;
+    height: 40%;
+    width: 100%;
+    margin-top: 30px;
+    float: left;
+}
+.gbig{
+    border: 2px solid black;
+    height: 30%;
+    width: 30%;
+    text-align: justify;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    float: left;
+}
+.immg{
+    width: 40%;
+    height: 70%;
+}
+.img{
+    width: 100%;
+    height: 100%;
+
+}
+.vid{
+    display: block;
+    background: url(https://cdn.akamai.steamstatic.com/steam/clusters/takeunder/5e947e54d810eb6233d70b35/takeunder_desktop_russian.gif?t=1645567279 ) no-repeat center;
+    max-width: 940px;
+    width: 100%;
+    height: 15.4vw;
+    max-height: 150px;
+    background-size: cover;
+}
